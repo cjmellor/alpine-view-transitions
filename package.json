@@ -1,5 +1,5 @@
 {
-  "name": "@cjmellor/alpine-view-transitions",
+  "name": "alpine-view-transitions",
   "version": "0.0.1",
   "description": "Alpine.js extension for the View Transition API",
   "main": "dist/alpine-view-transitions.js",

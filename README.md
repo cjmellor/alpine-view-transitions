@@ -5,14 +5,14 @@ An Alpine.js plugin that adds CSS View Transitions support to your Alpine applic
 ## Installation
 
  ```bash
-npm install @your-namespace/alpine-view-transitions
+npm install alpine-view-transitions
 ```
 
 ## Usage
 
 ```js
 import Alpine from 'alpinejs'
-import ViewTransitions from '@cjmellor/alpine-view-transitions'
+import ViewTransitions from 'alpine-view-transitions'
 
 Alpine.plugin(ViewTransitions)
 Alpine.start()
