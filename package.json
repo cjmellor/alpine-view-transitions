@@ -1,0 +1,32 @@
+{
+  "name": "@cjmellor/alpine-view-transitions",
+  "version": "0.0.1",
+  "description": "Alpine.js extension for the View Transition API",
+  "main": "dist/alpine-view-transitions.js",
+  "module": "src/index.js",
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --minify --outfile=dist/alpine-view-transitions.js",
+    "dev": "esbuild src/index.js --bundle --watch --outfile=dist/alpine-view-transitions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmellor/alpine-view-transitions-extension.git"
+  },
+  "keywords": [
+    "alpine",
+    "alpinejs",
+    "view-transitions"
+  ],
+  "author": "Chris Mellor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjmellor/alpine-view-transitions-extension/issues"
+  },
+  "homepage": "https://github.com/cjmellor/alpine-view-transitions-extension#readme",
+  "peerDependencies": {
+    "alpinejs": "^3.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
