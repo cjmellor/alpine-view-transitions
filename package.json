@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cjmellor/alpine-view-transitions-extension.git"
+    "url": "git+https://github.com/cjmellor/alpine-view-transitions.git"
   },
   "keywords": [
     "alpine",
@@ -20,9 +20,9 @@
   "author": "Chris Mellor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cjmellor/alpine-view-transitions-extension/issues"
+    "url": "https://github.com/cjmellor/alpine-view-transitions/issues"
   },
-  "homepage": "https://github.com/cjmellor/alpine-view-transitions-extension#readme",
+  "homepage": "https://github.com/cjmellor/alpine-view-transitions#readme",
   "peerDependencies": {
     "alpinejs": "^3.0.0"
   },
